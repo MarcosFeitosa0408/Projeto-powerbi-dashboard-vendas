@@ -1,4 +1,5 @@
 # 📊 Dashboard de Vendas no Power BI | Do Excel ao Insight
+💡 Projeto focado em transformar dados em decisões estratégicas com visualização interativa.
 
 Projeto completo de análise de dados com Power BI, desde a limpeza no Excel até a geração de insights estratégicos.
 
@@ -26,3 +27,11 @@ https://youtu.be/E64vsx13HKA
 - Identificação de padrões de vendas
 - Comparação de performance entre vendedores
 - Análise de produtos mais rentáveis
+
+
+## ⚠️ Observação
+O arquivo .pbix não foi disponibilizado neste repositório.  
+Para visualizar o projeto completo e interativo, acesse o vídeo demonstrativo abaixo.
+
+## 🎥 Demonstração
+[▶️ Assistir no YouTube](https://youtu.be/E64vsx13HKA)
