@@ -1,29 +1,28 @@
-# Projeto-powerbi-dashboard-vendas
-feat: adiciona projeto de dashboard de vendas em Power BI
+# 📊 Dashboard de Vendas no Power BI | Do Excel ao Insight
 
 Projeto completo de análise de dados com Power BI, desde a limpeza no Excel até a geração de insights estratégicos.
 
-Objetivo:
+## 🎯 Objetivo
+Transformar dados brutos em insights que apoiem a tomada de decisão.
 
-Transformar dados brutos em insights
-Apoiar tomada de decisão
+## 🛠️ Ferramentas
+- Power BI
+- Power Query
+- Excel
 
-Ferramentas:
+## 📊 Principais Análises
+- Faturamento total
+- Evolução mensal e anual
+- Desempenho por vendedores
+- Análise por produtos e regiões
 
-Power BI
-Power Query
-Excel
+## 📸 Preview do Dashboard
+![Dashboard](./Captura%20de%20tela%202026-04-17%20014933.png)
 
-Principais análises:
+## 🎥 Vídeo do Projeto
+https://youtu.be/E64vsx13HKA
 
-Faturamento total
-Evolução mensal/anual
-Performance por vendedores
-Análise por produtos e regiões
-
-Preview:
-(Captura de tela 2026-04-17 014933.png
-)
-
-Vídeo do projeto:
-(https://youtu.be/E64vsx13HKA)
+## 📈 Insights Gerados
+- Identificação de padrões de vendas
+- Comparação de performance entre vendedores
+- Análise de produtos mais rentáveis
