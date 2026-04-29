@@ -32,6 +32,7 @@ https://youtu.be/E64vsx13HKA
 ## ⚠️ Observação
 O arquivo .pbix não foi disponibilizado neste repositório.  
 Para visualizar o projeto completo e interativo, acesse o vídeo demonstrativo abaixo.
+Interativo, desse vídeo demonstrativo à abaixo.
 
 ## 🎥 Demonstração
 [▶️ Assistir no YouTube](https://youtu.be/E64vsx13HKA)
