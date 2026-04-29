@@ -22,7 +22,8 @@ Performance por vendedores
 Análise por produtos e regiões
 
 Preview:
-(coloque a imagem do dashboard)
+(Captura de tela 2026-04-17 014933.png
+)
 
 Vídeo do projeto:
 (https://youtu.be/E64vsx13HKA)
